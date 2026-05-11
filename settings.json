@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "&d&lSPY COMMUNITY",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "hyspymc.qzz.io",
+    "port": 38696,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "&c&lRULES: WITHOUT DPY PERGE DONT KILL EVERYONE",
+        "WELCOME TO SPY COMMUNITY !",
+        "&e&lENJOY AND BUY CRATES AND BUY RANKS!"
       ]
     },
     "chat-log": true,
